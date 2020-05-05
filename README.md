@@ -1,0 +1,1 @@
+# bing-daily-pic-workers
